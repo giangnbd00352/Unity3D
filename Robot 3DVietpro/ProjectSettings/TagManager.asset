@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Doituong
+  - ground
+  - Ball
+  - Dinamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4221045759
+    locked: 0
+  - name: MidGround
+    uniqueID: 1701986067
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1662205923
+    locked: 0
+  - name: Player
+    uniqueID: 460553175
+    locked: 0
+  - name: UI
+    uniqueID: 2609438731
+    locked: 0
